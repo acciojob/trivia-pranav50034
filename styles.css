@@ -1,2 +1,12 @@
-
+blockquote{
+	border-left:8px solid green;
+	background:#f8fffe;
+	width:600px;
+	padding :15px;
+}
+.que{
+	font-weight:bold;
+	margin-bottom:10px;
+	padding-bottom:15px;
+}
 /* Your CSS Code here. */
